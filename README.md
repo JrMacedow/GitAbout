@@ -4,7 +4,8 @@
 
 Este projeto objetiva-se na apresentação de termos relacionados
 ao Git e seus derivados, funcionalidades, instalação e utilização
-de sua ferramenta para produção de projetos de desenvolvimento web.
+de sua ferramenta para produção de projetos de desenvolvimento web, 
+além de ajudar na parte acadêmica e em projetos que compartilham novas experiências.
 
 > ***Destinado para fins acadêmicos.***
 
